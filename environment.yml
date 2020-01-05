@@ -1,0 +1,10 @@
+name: assemblique-env
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.7
+  - pandas
+  - requests
+  - pip
+  - pip:
+    - instaloader
