@@ -167,36 +167,8 @@
             <a href="/portfolio.html" class="view-more-button" title="View More">View More</a>
         </h4>
       </div>
-      <div class="recent-works row">
-        
-            <div class="post-list-item col-xs-6 col-md-3">
-                <a href="/portfolio/914" class="recent-work-image-link">
-                    <div class="recent-item-image" style="background-image: url(http://wp.assemblique.com/wp/wp-content/uploads/2017/07/weirdfishes-group.jpg);"></div>
-                    <p class="post-title">Latest Available in the “Weird Fishes” Series</p>
-                </a>
-            </div>
-        
-            <div class="post-list-item col-xs-6 col-md-3">
-                <a href="/portfolio/916" class="recent-work-image-link">
-                    <div class="recent-item-image" style="background-image: url(http://wp.assemblique.com/wp/wp-content/uploads/2017/07/blackforestbuddha2.jpg);"></div>
-                    <p class="post-title">Two new clockwork Buddha masks complete!</p>
-                </a>
-            </div>
-        
-            <div class="post-list-item col-xs-6 col-md-3">
-                <a href="/portfolio/924" class="recent-work-image-link">
-                    <div class="recent-item-image" style="background-image: url(http://wp.assemblique.com/wp/wp-content/uploads/2017/07/notimetogrieve1.jpg);"></div>
-                    <p class="post-title">“No Time to Grieve for Roses”</p>
-                </a>
-            </div>
-        
-            <div class="post-list-item col-xs-6 col-md-3">
-                <a href="/portfolio/926" class="recent-work-image-link">
-                    <div class="recent-item-image" style="background-image: url(http://wp.assemblique.com/wp/wp-content/uploads/2017/07/thruthegrapevine-close2.jpg);"></div>
-                    <p class="post-title">“Through the Grape Vine”</p>
-                </a>
-            </div>
-        
+      <div class="recent-works row" id="index-recent-works-row">
+            <!-- MITHRIL FILLS ELEMENTS HERE -->
       </div>
     </div>
 </div>
@@ -208,42 +180,11 @@
             <a href="/press.html" class="view-more-button" title="View More">View More</a>
         </h4>
       </div>
-      <div class="recent-works row">
-        
-            <div class="post-list-item col-xs-12 col-md-3">
-                <a href="/press/910" class="recent-work-image-link">
-                    <div class="recent-item-image" style="background-image: url(http://wp.assemblique.com/wp/wp-content/uploads/2017/07/quotidian-flyer-1.jpg);"></div>
-                    <p class="recent-press-title">“Man-Eater” fish picked for Long Island Art League Exhibit</p>
-                </a>
-            </div>
-        
-            <div class="post-list-item col-xs-12 col-md-3">
-                <a href="/press/912" class="recent-work-image-link">
-                    <div class="recent-item-image" style="background-image: url(http://wp.assemblique.com/wp/wp-content/uploads/2017/07/screen-shot-2017-04-05-at-8-41-45-am.png);"></div>
-                    <p class="recent-press-title">Thalo.com Spotlight Artist of the Month</p>
-                </a>
-            </div>
-        
-            <div class="post-list-item col-xs-12 col-md-3">
-                <a href="/press/918" class="recent-work-image-link">
-                    <div class="recent-item-image" style="background-image: url(http://wp.assemblique.com/wp/wp-content/uploads/2017/07/img_2671.jpg);"></div>
-                    <p class="recent-press-title">“SPIKE” has been chosen for the Long Island Artists Exhibition!</p>
-                </a>
-            </div>
-        
-            <div class="post-list-item col-xs-12 col-md-3">
-                <a href="/press/1038" class="recent-work-image-link">
-                    <div class="recent-item-image" style="background-image: url(http://wp.assemblique.com/wp/wp-content/uploads/2017/07/assemblique-logo-card.jpg);"></div>
-                    <p class="recent-press-title">Assemblique™ Now on Pinterest!</p>
-                </a>
-            </div>
-        
+      <div class="recent-works row" id="index-recent-press-row">
+            <!-- MITHRIL FILLS ELEMENTS HERE -->
       </div>
     </div>
 </div>
-
-
-
 
 
       </div>
@@ -259,7 +200,6 @@
 
 
 
-  <!--  <script src="assets/js/jquery-3.1.1.min.js"></script> -->
   <script src="/assets/js/jquery-1.7.1.js"></script>
   <script src="/assets/js/jquery.flexslider.min.js"></script>
   <script src="/assets/js/imagesloaded.pkgd.min.js"></script>
@@ -271,30 +211,60 @@
   <script type="text/javascript" src="/assets/js/tweenmax.min.js"></script>
   <script type="text/javascript" src="/assets/js/jquery.lettering-0.6.1.min.js"></script>
   <script type="text/javascript" src="/assets/js/jquery.superscrollorama.js"></script>
+
+  <script type="text/javascript" src="/assets/js/mithril.min.js"></script>
+  
   
 <script type="text/javascript">
   //<![CDATA[
 	$(document).ready(function() {
 
 		// lettering.js to split up letters for animation
-		/*$('#title-line1').lettering();*/
 		$('#title-line2').lettering();
 		$('#title-line3').lettering();
 		// TimelineLite for title animation, then start up superscrollorama when complete
-	  initScrollAnimations();
+	    initScrollAnimations();
 		function initScrollAnimations() {
-
 			var controller = $.superscrollorama();
 			// title tweens
 			$('.title-line span').each(function() {
 				controller.addTween(10, TweenMax.to(this, 1.0, {css:{top: 300 + Math.random()*-100, left:(Math.random()*2000) - 100, rotation:Math.random()*720-360, 'font-size': Math.random()*100+150}, ease:Quad.easeOut}));
 			});
-			//controller.addTween(10, TweenMax.to($('#title-line1'), .75, {css:{top: 600}, ease:Quad.easeOut}));
-			//controller.addTween(10, TweenMax.to($('#title-line2'), .75, {css:{top: 200}, ease:Quad.easeOut}));
-			//controller.addTween(10, TweenMax.to($('#title-line3'), .75, {css:{top: -200}, ease:Quad.easeOut}));
+        }
+        
+        $.getJSON("/content/index.json").then(function(d) {
+            const recentWorks = d.portfolio.slice(0, 4);
+            const recentWorksEls = recentWorks.map((post) => {
+                return m("div", { class: "post-list-item col-xs-6 col-md-3" }, 
+                    m("a", { href: "/portfolio.html?p=" + post.slug, class: "recent-work-image-link" }, [
+                        m("div", { 
+                            class: "recent-item-image", 
+                            style: "background-image: url(" + post.img + ")"
+                        }),
+                        m("p", { class: "post-title" }, post.title)
+                    ])
+                );
+            });
 
+            const recentPress = d.press.slice(0, 4);
+            const recentPressEls = recentPress.map((post) => {
+                return m("div", { class: "post-list-item col-xs-12 col-md-3" }, 
+                    m("a", { href: "/press.html?p=" + post.slug, class: "recent-work-image-link" }, [
+                        m("div", { 
+                            class: "recent-item-image", 
+                            style: "background-image: url(" + post.img + ")"
+                        }),
+                        m("p", { class: "recent-press-title" }, post.title)
+                    ])
+                );
+            });
 
-		}
+            
+
+            m.render($("#index-recent-works-row")[0], recentWorksEls);
+            m.render($("#index-recent-press-row")[0], recentPressEls);
+
+        })
 	});
   //]]>
 
