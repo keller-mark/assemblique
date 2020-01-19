@@ -5,6 +5,7 @@ dependencies:
   - python>=3.7
   - pandas
   - requests
+  - boto3
   - pip
   - pip:
     - instaloader

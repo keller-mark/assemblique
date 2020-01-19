@@ -1,3 +1,0 @@
-#!/bin/bash
-
-instaloader assemblique
