@@ -16,6 +16,6 @@ export ASSEMBLIQUE_S3_SECRET_ACCESS_KEY="my_secret_access_key";
 Download and process latest instagram posts:
 
 ```sh
-bash content/src/start.sh
+bash src/process.sh
 ```
 
