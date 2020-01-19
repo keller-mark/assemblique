@@ -8,3 +8,5 @@ dependencies:
   - pip
   - pip:
     - instaloader
+    - python-frontmatter
+    - markdownify
