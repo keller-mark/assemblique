@@ -213,6 +213,7 @@
   <script type="text/javascript" src="/assets/js/jquery.superscrollorama.js"></script>
 
   <script type="text/javascript" src="/assets/js/mithril.min.js"></script>
+  <script type="text/javascript" src="/assets/js/marked.min.js"></script>
   
   
 <script type="text/javascript">
@@ -232,8 +233,8 @@
 			});
         }
         
-        $.getJSON("/content/index.json").then(function(d) {
-            const recentWorks = d.portfolio.slice(0, 4);
+        $.getJSON("/content/index.json").then(function(index) {
+            const recentWorks = index.portfolio.slice(0, 4);
             const recentWorksEls = recentWorks.map((post) => {
                 return m("div", { class: "post-list-item col-xs-6 col-md-3" }, 
                     m("a", { href: "/portfolio.html?p=" + post.slug, class: "recent-work-image-link" }, [
@@ -246,7 +247,7 @@
                 );
             });
 
-            const recentPress = d.press.slice(0, 4);
+            const recentPress = index.press.slice(0, 4);
             const recentPressEls = recentPress.map((post) => {
                 return m("div", { class: "post-list-item col-xs-12 col-md-3" }, 
                     m("a", { href: "/press.html?p=" + post.slug, class: "recent-work-image-link" }, [
