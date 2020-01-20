@@ -17,5 +17,6 @@ Download and process latest instagram posts:
 
 ```sh
 bash src/process.sh
+yarn deploy
 ```
 
