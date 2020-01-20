@@ -173,8 +173,15 @@
                 const work = works.find(w => w.slug === p);
                 
                 $.get(work.path).then(function(mdPost) {
-                    const htmlPost = marked(mdPost.replace(/---[\s\S]*---/m, ''));
+                    const mdPostContent = mdPost.replace(/---[\s\S]*---/m, '');
+                    const htmlPost = marked(mdPostContent);
                     $("#portfolio-content").append(htmlPost);
+                    if(!mdPostContent.trim().startsWith(work.title)) {
+                        const titleEl = m("h1", { class: "portfolio-item-title" }, work.title);
+                        m.render($("#portfolio-main")[0], titleEl);
+                    } else {
+                        m.render($("#portfolio-main")[0], m("p", {style: "margin-top: 20px;"}));
+                    }
                 });
 
                 const breadcrumbEl = m("div", { class: "breadcrumb-row" },
@@ -189,8 +196,6 @@
                 );
                 m.render($("#portfolio-title")[0], breadcrumbEl);
 
-                const titleEl = m("h1", { class: "portfolio-item-title" }, work.title);
-                m.render($("#portfolio-main")[0], titleEl);
             } else {
                 let page = 1;
                 if(searchParams.has("page")) {
