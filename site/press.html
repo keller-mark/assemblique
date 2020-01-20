@@ -173,7 +173,7 @@
                 const p = searchParams.get("p");
                 const work = works.find(w => w.slug === p);
                 
-                $.get(work.path.join("/")).then(function(mdPost) {
+                $.get(work.path).then(function(mdPost) {
                     const htmlPost = marked(mdPost.replace(/---[\s\S]*---/m, ''));
                     $("#portfolio-content").append(htmlPost);
                 });

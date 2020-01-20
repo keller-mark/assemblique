@@ -10,10 +10,11 @@ import botocore
 import frontmatter as fm
 from markdownify import markdownify as md
 
+from s3_utils import s3, b3, S3_BASE_URL, s3_file_exists
+
 STATIC_DIR = join('..', 'site', 'content')
 INSTA_DIR = join('instagram', 'assemblique')
 ADMIN_USERNAMES = ['assemblique', 'mark_keller_']
-S3_BASE_URL = '//assemblique.s3.us-east-2.amazonaws.com'
 
 HASHTAG_TO_POST_TYPE = {
     '#assembliquewebsite_portfolio': 'portfolio',
@@ -23,31 +24,12 @@ HASHTAG_TO_POST_TYPE = {
     '#assembliquewebsite_forsale': 'forsale'
 }
 
-s3 = boto3.resource(
-    service_name='s3',
-    aws_access_key_id=os.environ['ASSEMBLIQUE_S3_ACCESS_KEY_ID'],
-    aws_secret_access_key=os.environ['ASSEMBLIQUE_S3_SECRET_ACCESS_KEY']
-)
-
-b3 = s3.Bucket("assemblique")
-
-def s3_file_exists(file_key):
-    try:
-        b3.Object(file_key).load()
-    except botocore.exceptions.ClientError as e:
-        if e.response['Error']['Code'] == "404":
-            # The object does not exist.
-            return False
-        else:
-            # Something else has gone wrong.
-            raise
-    return True
 
 def s3_upload(img_files, year, month):
     result = []
     for img_file in img_files:
         file_key = f'{year}/{month}/{img_file}'
-        if s3_file_exists(file_key):
+        if s3_file_exists(b3, file_key):
             result += [ file_key ]
         else:
             data = open(join(INSTA_DIR, img_file), 'rb')
@@ -58,11 +40,13 @@ def s3_upload(img_files, year, month):
     result = [ f'{S3_BASE_URL}/{key}' for key in result ]
     return result
 
+
 def img_urls_to_html(img_urls):
     result = ""
     for img_url in img_urls:
         result += f'<img src="{img_url}" />\n'
     return result
+
 
 def post_to_markdown(json_filepath, shortcode, post_types):
     post_files = [ f for f in os.listdir(INSTA_DIR) if f.startswith(json_filepath[:-8]) ]
