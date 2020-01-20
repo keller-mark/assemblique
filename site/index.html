@@ -8,13 +8,13 @@
 
   <title>Assemblique - Home</title>
 
-  <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-  <link rel="stylesheet" href="/assets/css/font-awesome.min.css">
-  <link rel="stylesheet" href="/assets/css/flexslider.css">
-  <link rel="stylesheet" href="/assets/css/slick.css">
-  <link rel="stylesheet" href="/assets/css/jquery-magnific.css">
-  <link rel="stylesheet" href="/assets/css/ionicons.min.css">
-  <link rel="stylesheet" href="/assets/css/app.css">
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+  <link rel="stylesheet" href="assets/css/flexslider.css">
+  <link rel="stylesheet" href="assets/css/slick.css">
+  <link rel="stylesheet" href="assets/css/jquery-magnific.css">
+  <link rel="stylesheet" href="assets/css/ionicons.min.css">
+  <link rel="stylesheet" href="assets/css/app.css">
 
 </head>
 <body>
@@ -56,7 +56,7 @@
           </div>
 
           <div id="logo-container">
-            <a href="/" title="Logo">
+            <a href="index.html" title="Logo">
               Assemblique
             </a>
           </div>
@@ -66,35 +66,35 @@
               <ul class="menu">
 
                 <li>
-                  <a href="/" title="Home"  class="active" >HOME</a>
+                  <a href="index.html" title="Home"  class="active" >HOME</a>
                 </li>
 
                 <li>
-                  <a href="/portfolio.html" title="Portfolio" >PORTFOLIO</a>
+                  <a href="portfolio.html" title="Portfolio" >PORTFOLIO</a>
                 </li>
 
                 <li>
-                  <a href="/for-sale.html" title="For Sale" >FOR SALE</a>
+                  <a href="for-sale.html" title="For Sale" >FOR SALE</a>
                 </li>
 
                 <li>
-                  <a href="/commissions.html" title="Commissions" >COMMISSIONS</a>
+                  <a href="commissions.html" title="Commissions" >COMMISSIONS</a>
                 </li>
 
                 <li>
-                  <a href="/about.html" title="About" >ABOUT</a>
+                  <a href="about.html" title="About" >ABOUT</a>
                 </li>
 
                 <li>
-                  <a href="/contact.html" title="Contact" >CONTACT</a>
+                  <a href="contact.html" title="Contact" >CONTACT</a>
                 </li>
 
                 <li>
-                  <a href="/events.html" title="Upcoming Events" >UPCOMING EVENTS</a>
+                  <a href="events.html" title="Upcoming Events" >UPCOMING EVENTS</a>
                 </li>
 
                 <li>
-                  <a href="/press.html" title="Press" >PRESS</a>
+                  <a href="press.html" title="Press" >PRESS</a>
                 </li>
               </ul>
             </div>
@@ -164,7 +164,7 @@
       <div class="widget widget-about">
         <h4 class="widget-title">
             Recent Works
-            <a href="/portfolio.html" class="view-more-button" title="View More">View More</a>
+            <a href="portfolio.html" class="view-more-button" title="View More">View More</a>
         </h4>
       </div>
       <div class="recent-works row" id="index-recent-works-row">
@@ -177,7 +177,7 @@
       <div class="widget widget-about">
         <h4 class="widget-title">
             Recent Press
-            <a href="/press.html" class="view-more-button" title="View More">View More</a>
+            <a href="press.html" class="view-more-button" title="View More">View More</a>
         </h4>
       </div>
       <div class="recent-works row" id="index-recent-press-row">
@@ -200,20 +200,20 @@
 
 
 
-  <script src="/assets/js/jquery-1.7.1.js"></script>
-  <script src="/assets/js/jquery.flexslider.min.js"></script>
-  <script src="/assets/js/imagesloaded.pkgd.min.js"></script>
-  <script src="/assets/js/masonry.pkgd.min.js"></script>
+  <script src="assets/js/jquery-1.7.1.js"></script>
+  <script src="assets/js/jquery.flexslider.min.js"></script>
+  <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+  <script src="assets/js/masonry.pkgd.min.js"></script>
 
-  <script src="/assets/js/slick.min.js"></script>
-  <script src="/assets/js/jquery.magnific.min.js"></script>
-  <script src="/assets/js/app.js"></script>
-  <script type="text/javascript" src="/assets/js/tweenmax.min.js"></script>
-  <script type="text/javascript" src="/assets/js/jquery.lettering-0.6.1.min.js"></script>
-  <script type="text/javascript" src="/assets/js/jquery.superscrollorama.js"></script>
+  <script src="assets/js/slick.min.js"></script>
+  <script src="assets/js/jquery.magnific.min.js"></script>
+  <script src="assets/js/app.js"></script>
+  <script type="text/javascript" src="assets/js/tweenmax.min.js"></script>
+  <script type="text/javascript" src="assets/js/jquery.lettering-0.6.1.min.js"></script>
+  <script type="text/javascript" src="assets/js/jquery.superscrollorama.js"></script>
 
-  <script type="text/javascript" src="/assets/js/mithril.min.js"></script>
-  <script type="text/javascript" src="/assets/js/marked.min.js"></script>
+  <script type="text/javascript" src="assets/js/mithril.min.js"></script>
+  <script type="text/javascript" src="assets/js/marked.min.js"></script>
   
   
 <script type="text/javascript">
@@ -233,11 +233,11 @@
 			});
         }
         
-        $.getJSON("/content/index.json").then(function(index) {
+        $.getJSON("content/index.json").then(function(index) {
             const recentWorks = index.portfolio.slice(0, 4);
             const recentWorksEls = recentWorks.map((post) => {
                 return m("div", { class: "post-list-item col-xs-6 col-md-3" }, 
-                    m("a", { href: "/portfolio.html?p=" + post.slug, class: "recent-work-image-link" }, [
+                    m("a", { href: "portfolio.html?p=" + post.slug, class: "recent-work-image-link" }, [
                         m("div", { 
                             class: "recent-item-image", 
                             style: "background-image: url(" + post.img + ")"
@@ -250,7 +250,7 @@
             const recentPress = index.press.slice(0, 4);
             const recentPressEls = recentPress.map((post) => {
                 return m("div", { class: "post-list-item col-xs-12 col-md-3" }, 
-                    m("a", { href: "/press.html?p=" + post.slug, class: "recent-work-image-link" }, [
+                    m("a", { href: "press.html?p=" + post.slug, class: "recent-work-image-link" }, [
                         m("div", { 
                             class: "recent-item-image", 
                             style: "background-image: url(" + post.img + ")"
