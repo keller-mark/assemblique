@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/keller-mark/assemblique.svg?branch=master)](https://travis-ci.org/keller-mark/assemblique)
 
 Create and activate conda environment:
 
