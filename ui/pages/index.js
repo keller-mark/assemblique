@@ -1,5 +1,5 @@
-import Head from 'next/head';
 import styled from 'styled-components';
+import Link from 'next/link';
 import Layout from '../components/Layout.js';
 import { getRecentWorks, getRecentPress } from '../utils/api.js';
 
@@ -57,10 +57,12 @@ function Recents({ title, page, items }) {
             <div className="recent-list">
             {items.map(item => (
                 <div key={item.slug} className="recent-item">
-                    <a href={`/${page}/${item.slug}`}>
-                        <div style={{ backgroundImage: `url(${item.img})`}}></div>
-                        <p>{item.title}</p>
-                    </a>
+                    <Link href={`/${page}/${item.slug}`}>
+                        <a>
+                            <div style={{ backgroundImage: `url(${item.img})`}}></div>
+                            <p>{item.title}</p>
+                        </a>
+                    </Link>
                 </div>
             ))}
             </div>
