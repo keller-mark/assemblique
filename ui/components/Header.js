@@ -1,6 +1,5 @@
 import Link from 'next/link';
 import styled from 'styled-components';
-import classNames from 'classnames';
 import {
     Facebook as FacebookIcon,
     Instagram as InstagramIcon,
@@ -57,9 +56,7 @@ const StyledNav = styled("nav")`
     justify-content: space-evenly;
     padding: 10px;
     margin-top: 20px;
-    
-    border-top: 3px double #aaa;
-    border-bottom: 3px double #aaa;
+    //border-top: 3px double #aaa;
 `;
 
 export default function Header() {
