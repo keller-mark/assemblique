@@ -1,8 +1,6 @@
 import Head from 'next/head';
 import styled from 'styled-components';
-import Header from '../components/Header.js';
-import Footer from '../components/Footer.js';
-import Container from '../components/Container.js';
+import Layout from '../components/Layout.js';
 import { getRecentWorks, getRecentPress } from '../utils/api.js';
 
 const StyledMainDiv = styled("div")`
@@ -12,9 +10,7 @@ const StyledMainDiv = styled("div")`
 
 function Main() {
     return (
-        <Container>
-            <StyledMainDiv />
-        </Container>
+        <StyledMainDiv />
     );
 }
 
@@ -56,38 +52,30 @@ const StyledRecentsDiv = styled("div")`
 
 function Recents({ title, page, items }) {
     return (
-        <Container>
-            <StyledRecentsDiv>
-                <h2>{title}</h2>
-                <div className="recent-list">
-                {items.map(item => (
-                    <div key={item.slug} className="recent-item">
-                        <a href={`/${page}/${item.slug}`}>
-                            <div style={{ backgroundImage: `url(${item.img})`}}></div>
-                            <p>{item.title}</p>
-                        </a>
-                    </div>
-                ))}
+        <StyledRecentsDiv>
+            <h2>{title}</h2>
+            <div className="recent-list">
+            {items.map(item => (
+                <div key={item.slug} className="recent-item">
+                    <a href={`/${page}/${item.slug}`}>
+                        <div style={{ backgroundImage: `url(${item.img})`}}></div>
+                        <p>{item.title}</p>
+                    </a>
                 </div>
-            </StyledRecentsDiv>
-        </Container>
+            ))}
+            </div>
+        </StyledRecentsDiv>
     );
 }
 
 export default function Home(props) {
     const { recentWorks, recentPress } = props;
     return (
-        <>
-            <Head>
-                <title>Assemblique</title>
-                <link rel="icon" href="/favicon.png" />
-            </Head>
-            <Header />
+        <Layout>
             <Main />
             <Recents title="Recent Works" page="portfolio" items={recentWorks} />
             <Recents title="Recent Press" page="press" items={recentPress} />
-            <Footer />
-        </>
+        </Layout>
     );
 }
 

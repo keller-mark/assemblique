@@ -7,12 +7,18 @@ import {
 } from 'react-feather';
 import Container from './Container.js';
 import HeaderLink from './HeaderLink.js';
+import SearchInput from './SearchInput.js';
 
 const StyledSocialBar = styled("div")`
     width: 100%;
     position: relative;
     height: 50px;
-    div {
+    div.left {
+        position: absolute;
+        left: 0;
+        top: 10px;
+    }
+    div.right {
         position: absolute;
         right: 0;
         top: 10px;
@@ -63,7 +69,10 @@ export default function Header() {
   return (
     <Container>
         <StyledSocialBar>
-            <div>
+            <div className="left">
+                <SearchInput />
+            </div>
+            <div className="right">
                 <a href="https://www.facebook.com/assemblique"><FacebookIcon /></a>
                 <a href="https://www.instagram.com/assemblique/"><InstagramIcon /></a>
                 <a href="mailto:assemblique@gmail.com"><MailIcon /></a>
