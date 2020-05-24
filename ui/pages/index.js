@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import styled from 'styled-components';
 import Header from '../components/Header.js';
+import Footer from '../components/Footer.js';
 import Container from '../components/Container.js';
 import { getRecentWorks, getRecentPress } from '../utils/api.js';
 
@@ -17,7 +18,7 @@ function Main() {
     );
 }
 
-const StyledRecentDiv = styled("div")`
+const StyledRecentsDiv = styled("div")`
     h2 {
         font-family: "Lora", sans-serif;
         font-weight: 400;
@@ -25,30 +26,56 @@ const StyledRecentDiv = styled("div")`
         border-bottom: 1px solid #aaa;
         padding-bottom: 5px;
     }
+    .recent-list {
+        width: 100%;
+        display: flex;
+        .recent-item {
+            flex-basis: 1;
+            a {
+                color: #aaa;
+                text-decoration: none;
+                &:hover {
+                    color: #777;
+                }
+            }
+            a div {
+                height: 300px;
+                width: 95%;
+                background-repeat: no-repeat;
+                background-position: center;
+                background-size: contain;
+            }
+            a p {
+                width: 95%;
+                text-align: center;
+                display: inline-block;
+            }
+        }
+    }
 `;
 
-function RecentWorks() {
+function Recents({ title, page, items }) {
     return (
         <Container>
-            <StyledRecentDiv>
-                <h2>Recent Works</h2>
-            </StyledRecentDiv>
-        </Container>
-    );
-}
-
-function RecentPress() {
-    return (
-        <Container>
-            <StyledRecentDiv>
-                <h2>Recent Press</h2>
-            </StyledRecentDiv>
+            <StyledRecentsDiv>
+                <h2>{title}</h2>
+                <div className="recent-list">
+                {items.map(item => (
+                    <div key={item.slug} className="recent-item">
+                        <a href={`/${page}/${item.slug}`}>
+                            <div style={{ backgroundImage: `url(${item.img})`}}></div>
+                            <p>{item.title}</p>
+                        </a>
+                    </div>
+                ))}
+                </div>
+            </StyledRecentsDiv>
         </Container>
     );
 }
 
 export default function Home(props) {
-    console.log(props);
+    const { recentWorks, recentPress } = props;
     return (
         <>
             <Head>
@@ -57,8 +84,9 @@ export default function Home(props) {
             </Head>
             <Header />
             <Main />
-            <RecentWorks />
-            <RecentPress />
+            <Recents title="Recent Works" page="portfolio" items={recentWorks} />
+            <Recents title="Recent Press" page="press" items={recentPress} />
+            <Footer />
         </>
     );
 }
