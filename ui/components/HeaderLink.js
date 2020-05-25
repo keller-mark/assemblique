@@ -46,7 +46,7 @@ const StyledA = styled("a")`
 
 export default function HeaderLink({ href, children }) {
   const router = useRouter();
-  const isActive = router.pathname === href;
+  const isActive = router.pathname === href || (href !== "/" && router.pathname.startsWith(href));
 
   return (
     <Link href={href}>

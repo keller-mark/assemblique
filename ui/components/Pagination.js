@@ -52,10 +52,11 @@ const StyledPaginationDiv = styled("div")`
     .pagination-total {
         z-index: 11;
         position: relative;
-        top: 20px;
+        top: 34px;
+        left: 6px;
         display: inline-block;
-        width: 40px;
-        margin-right: 24px;
+        width: 50px;
+        margin-right: 30px;
     }
 
     .pagination-line {
