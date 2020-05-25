@@ -31,6 +31,7 @@ const StyledPaginationDiv = styled("div")`
         text-decoration: none;
 
         &.disabled {
+            pointer-events: none;
             opacity: 0.3;
         }
     }
@@ -82,7 +83,7 @@ export default function Pagination(props) {
         <StyledPaginationDiv>
             <span className="pagination-arrow">
                 <Link href={`/${page}?page=${currPageNum-1}`}>
-                    <a className={classNames({ disabled: currPageNum === 1 })}>
+                    <a className={classNames({ disabled: currPageNum === 1 })} disabled={currPageNum <= 1}>
                         <ArrowLeftIcon />
                     </a>
                 </Link>
@@ -98,7 +99,7 @@ export default function Pagination(props) {
             </span>
             <span className="pagination-arrow">
                 <Link href={`/${page}?page=${currPageNum+1}`}>
-                    <a className={classNames({ disabled: currPageNum === totalPages })}>
+                    <a className={classNames({ disabled: currPageNum === totalPages })} disabled={currPageNum >= totalPages}>
                         <ArrowRightIcon />
                     </a>
                 </Link>

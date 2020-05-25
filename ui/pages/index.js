@@ -28,10 +28,10 @@ const StyledRecentsDiv = styled("div")`
         .recent-item {
             flex-basis: 1;
             a {
-                color: #aaa;
+                color: #333;
                 text-decoration: none;
                 &:hover {
-                    color: #777;
+                    color: #000;
                 }
             }
             a div {

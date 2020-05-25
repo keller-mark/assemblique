@@ -21,7 +21,7 @@ const StyledSocialBar = styled("div")`
     div.right {
         position: absolute;
         right: 0;
-        top: 10px;
+        top: 14px;
         a {
             border: 0;
             background-color: transparent;
@@ -62,7 +62,6 @@ const StyledNav = styled("nav")`
     justify-content: space-evenly;
     padding: 10px;
     margin-top: 20px;
-    //border-top: 3px double #aaa;
 `;
 
 export default function Header() {

@@ -1,18 +1,18 @@
 import styled from 'styled-components';
 import Layout from '../../components/Layout.js';
 import ListPage from '../../components/ListPage.js';
-import { getPortfolioItems } from '../../utils/api.js';
+import { getEventsItems } from '../../utils/api.js';
 
 
-export default function PortfolioIndex(props) {
+export default function EventsIndex(props) {
     const { items } = props;
 
     return (
         <Layout>
             <ListPage
                 items={items}
-                page="portfolio"
-                title="Portfolio"
+                page="events"
+                title="Events"
             />
         </Layout>
     );
@@ -20,6 +20,6 @@ export default function PortfolioIndex(props) {
 
 export async function getStaticProps() {
     return { props: {
-        items: getPortfolioItems()
+        items: getEventsItems()
     } };
 }
