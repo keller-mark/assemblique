@@ -3,8 +3,7 @@
 cd "$(dirname "$0")"
 cd instagram
 
-rm -r assemblique
-instaloader assemblique --comments --no-videos
+instaloader assemblique --fast-update --comments --no-videos
 
 cd -
 python assemble.py
