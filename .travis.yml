@@ -17,7 +17,7 @@ install:
   - conda env create -f environment.yml
   - source activate assemblique-env
 script:
-  - cd site && yarn build && cd -
+  - cd site && yarn && yarn build && cd -
   - bash src/process.sh
 deploy:
   - provider: pages
