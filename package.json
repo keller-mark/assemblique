@@ -1,8 +1,14 @@
 {
-  "devDependencies": {
+  "name": "assemblique",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:keller-mark/assemblique.git",
+  "author": "Mark Keller <7525285+keller-mark@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
     "gh-pages": "^2.2.0"
   },
   "scripts": {
-    "deploy": "gh-pages -d site"
+      "deploy": "gh-pages -d site/out"
   }
 }

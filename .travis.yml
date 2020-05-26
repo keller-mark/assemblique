@@ -1,8 +1,10 @@
-language: python
-python:
-  - "3.6"
+language: node_js
+node_js:
+  - "12"
 cache:
+  yarn: true
   directories:
+    - node_modules
     - src/instagram/assemblique
 install:
   - sudo apt-get update
@@ -15,12 +17,15 @@ install:
   - conda info -a
   - conda env create -f environment.yml
   - source activate assemblique-env
+  - cd site && yarn && cd -
 script:
+  - cd site && yarn build && cd -
   - bash src/process.sh
 deploy:
   - provider: pages
     skip-cleanup: true
     github-token: $github_token
-    local-dir: site
+    local-dir: site/out
+    fqdn: assemblique.com
 
 keep-history: true
