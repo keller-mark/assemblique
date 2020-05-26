@@ -1,26 +1,99 @@
+import { useRef, useState, useEffect } from 'react';
+import dynamic from 'next/dynamic';
 import styled from 'styled-components';
 import Link from 'next/link';
+import range from 'lodash/range';
 import Layout from '../components/Layout.js';
 import { getRecentWorks, getRecentPress } from '../utils/api.js';
 
-const StyledMainDiv = styled("div")`
+const Stage = dynamic(() => import('@inlet/react-pixi').then((rp) => rp.Stage));
+const Sprite = dynamic(() => import('@inlet/react-pixi').then((rp) => rp.Sprite));
+
+const StyledCanvasDiv = styled("div")`
     width: 100%;
-    height: 500px;
+    position: relative;
+
+    h2 {
+        
+        font-family: "Lora", sans-serif;
+        font-weight: 400;
+        font-size: 36px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        width: 100%;
+        text-align: center;
+
+        @media(max-width: 900px) {
+            font-size: 22px;
+        }
+    }
+
+    .canvas-wrapper {
+        width: 100%;
+        height: 500px;
+        position: relative;
+        text-align: center;
+        canvas {
+            margin: 0 auto;
+            border: 0px solid black;
+        }
+    }
 `;
 
 function Main() {
+
+    const sprites = range(1, 21).map(i => (
+        <Sprite
+            key={i}
+            image={`/sch_parts/part_${i}.png`}
+            x={0}
+            y={0}
+            width={316}
+            height={500}
+        />
+    ))
+
     return (
-        <StyledMainDiv />
+        <StyledCanvasDiv>
+            <div className="canvas-wrapper">
+                <Stage
+                    width={316}
+                    height={500}
+                    options={{
+                        transparent: true,
+                        antialias: true,
+                        resolution: 1,
+                        clearBeforeRender: true
+                    }}
+                >
+                    {sprites}
+                </Stage>
+            </div>
+            <h2>BROKEN OBJECTS FROM THE PAST,<br/> INTRICATELY ASSEMBLED</h2>
+        </StyledCanvasDiv>
     );
 }
 
 const StyledRecentsDiv = styled("div")`
+    position: relative;
     h2 {
         font-family: "Lora", sans-serif;
         font-weight: 400;
         font-size: 20px;
         border-bottom: 1px solid #aaa;
         padding-bottom: 5px;
+        position: relative;
+    }
+    a.view-more {
+        color: #333;
+        text-decoration: none;
+        position: absolute;
+        top: 0;
+        right: 0;
+
+        &:hover {
+            text-decoration: underline;
+        }
     }
     .recent-list {
         width: 100%;
@@ -58,6 +131,9 @@ function Recents({ title, page, items }) {
     return (
         <StyledRecentsDiv>
             <h2>{title}</h2>
+            <Link href={`/${page}`}>
+                <a className="view-more">View More</a>
+            </Link>
             <div className="recent-list">
             {items.map(item => (
                 <div key={item.slug} className="recent-item">
