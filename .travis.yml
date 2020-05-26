@@ -19,5 +19,6 @@ deploy:
     skip-cleanup: true
     github-token: $github_token
     local-dir: site
+    fqdn: assemblique.com
 
 keep-history: true

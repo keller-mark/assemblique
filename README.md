@@ -5,7 +5,6 @@ Create and activate conda environment:
 ```sh
 conda env create -f environment.yml
 source activate assemblique-env
-yarn
 ```
 
 Set AWS environment variables:
@@ -19,6 +18,5 @@ Download and process latest instagram posts:
 
 ```sh
 bash src/process.sh
-yarn deploy
 ```
 
