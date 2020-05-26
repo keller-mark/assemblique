@@ -9,6 +9,6 @@
     "gh-pages": "^2.2.0"
   },
   "scripts": {
-      "deploy": "gh-pages -d site/out"
+      "deploy": "echo 'assemblique.com' > site/out/CNAME && touch site/out/.nojekyll && gh-pages -d site/out -t"
   }
 }
