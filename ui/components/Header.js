@@ -1,9 +1,13 @@
+import { useState } from 'react';
 import Link from 'next/link';
 import styled from 'styled-components';
+import classNames from 'classnames';
 import {
     Facebook as FacebookIcon,
     Instagram as InstagramIcon,
-    Mail as MailIcon
+    Mail as MailIcon,
+    Menu as MenuIcon,
+    X as XIcon,
 } from 'react-feather';
 import Container from './Container.js';
 import HeaderLink from './HeaderLink.js';
@@ -30,6 +34,9 @@ const StyledSocialBar = styled("div")`
             opacity: 0.7;
             text-decoration: none;
             display: inline-block;
+            @media (max-width: 500px) {
+                margin-left: 15px;
+            }
             &:hover {
                 opacity: 1;
             }
@@ -55,6 +62,25 @@ const StyledTitle = styled("div")`
     }
 `;
 
+const StyledMobileMenuButton = styled("button")`
+    width: 100%;
+    border: 0;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    cursor: pointer;
+    background-color: transparent;
+
+    @media(min-width: 930px) {
+        display: none;
+    }
+
+    svg {
+        width: 30px;
+        height: 30px;
+    }
+`;
+
 const StyledNav = styled("nav")`
     width: 100%;
     display: flex;
@@ -62,37 +88,51 @@ const StyledNav = styled("nav")`
     justify-content: space-evenly;
     padding: 10px;
     margin-top: 20px;
+
+    @media(max-width: 930px) {
+        flex-direction: column;
+        display: none;
+        margin-top: 0px;
+        border-top: 1px solid #aaa;
+        border-bottom: 1px solid #aaa;
+    }
+    &.open {
+        display: flex;
+    }
 `;
 
 export default function Header() {
-  return (
-    <Container>
-        <StyledSocialBar>
-            <div className="left">
-                <SearchInput />
-            </div>
-            <div className="right">
-                <a href="https://www.facebook.com/assemblique"><FacebookIcon /></a>
-                <a href="https://www.instagram.com/assemblique/"><InstagramIcon /></a>
-                <a href="mailto:assemblique@gmail.com"><MailIcon /></a>
-            </div>
-        </StyledSocialBar>
-        <StyledTitle>
-            <Link href="/">
-                <a>Assemblique</a>
-            </Link>
-        </StyledTitle>
-
-        <StyledNav>
-            <HeaderLink href="/">Home</HeaderLink>
-            <HeaderLink href="/for-sale">For Sale</HeaderLink>
-            <HeaderLink href="/portfolio">Portfolio</HeaderLink>
-            <HeaderLink href="/commissions">Commissions</HeaderLink>
-            <HeaderLink href="/about">About</HeaderLink>
-            <HeaderLink href="/contact">Contact</HeaderLink>
-            <HeaderLink href="/events">Events</HeaderLink>
-            <HeaderLink href="/press">Press</HeaderLink>
-        </StyledNav>
-    </Container>
-  )
+    const [isMenuOpen, setIsMenuOpen] = useState(false);
+    return (
+        <Container>
+            <StyledSocialBar>
+                <div className="left">
+                    <SearchInput />
+                </div>
+                <div className="right">
+                    <a href="https://www.facebook.com/assemblique"><FacebookIcon /></a>
+                    <a href="https://www.instagram.com/assemblique/"><InstagramIcon /></a>
+                    <a href="mailto:assemblique@gmail.com"><MailIcon /></a>
+                </div>
+            </StyledSocialBar>
+            <StyledTitle>
+                <Link href="/">
+                    <a>Assemblique</a>
+                </Link>
+            </StyledTitle>
+            <StyledMobileMenuButton onClick={() => setIsMenuOpen(prev => !prev)}>
+                {isMenuOpen ? <XIcon/> : <MenuIcon />}
+            </StyledMobileMenuButton>
+            <StyledNav className={classNames({ open: isMenuOpen })}>
+                <HeaderLink href="/">Home</HeaderLink>
+                <HeaderLink href="/about">About</HeaderLink>
+                <HeaderLink href="/for-sale">For Sale</HeaderLink>
+                <HeaderLink href="/portfolio">Portfolio</HeaderLink>
+                <HeaderLink href="/commissions">Commissions</HeaderLink>
+                <HeaderLink href="/events">Events</HeaderLink>
+                <HeaderLink href="/press">Press</HeaderLink>
+                <HeaderLink href="/contact">Contact</HeaderLink>
+            </StyledNav>
+        </Container>
+    );
 }

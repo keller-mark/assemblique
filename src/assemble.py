@@ -21,7 +21,7 @@ HASHTAG_TO_POST_TYPE = {
     '#assembliquewebsite_press': 'press',
     '#assembliquewebsite_events': 'events',
     '#assembliquewebsite_commissions': 'commissions',
-    '#assembliquewebsite_forsale': 'forsale'
+    '#assembliquewebsite_available': 'forsale'
 }
 
 

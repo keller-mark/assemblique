@@ -25,6 +25,10 @@ const StyledRecentsDiv = styled("div")`
     .recent-list {
         width: 100%;
         display: flex;
+        flex-direction: row;
+        @media(max-width: 900px) {
+            flex-direction: column;
+        }
         .recent-item {
             flex-basis: 1;
             a {

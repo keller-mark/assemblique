@@ -36,11 +36,15 @@ const StyledA = styled("a")`
         position: relative;
         opacity: 0;
         transition: opacity 0.1s;
+        @media(max-width: 930px) {
+            display: none;
+        }
         svg {
             width: 100px;
             margin: 0 auto;
             display: block;
         }
+        
     }
 `;
 

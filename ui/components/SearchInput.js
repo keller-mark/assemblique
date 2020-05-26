@@ -11,6 +11,10 @@ const StyledInputDiv = styled("div")`
         padding: 6px;
         font-size: 16px;
         border-radius: 4px;
+
+        @media (max-width: 500px) {
+            width: 120px;
+        }
     }
     a {
         position: relative;
@@ -39,7 +43,7 @@ export default function SearchInput() {
             Router.push(`/search?q=${term}`);
         }
     }
-    
+
     return (
         <StyledInputDiv>
             <input type="text" placeholder="Search" value={term} onChange={onChange} onKeyDown={onKeyDown} />

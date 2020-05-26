@@ -10,7 +10,35 @@ const StyledPageTitle = styled("h2")`
 `;
 
 const StyledContactDiv = styled("div")`
-    
+    width: 60%;
+    margin-left: 20%;
+
+    @media(max-width: 900px) {
+        width: 100%;
+        margin-left: 0;
+    }
+    p {
+        text-align: center;
+        font-size: 18px;
+    }
+    table {
+        td {
+            font-size: 18px;
+            padding: 10px;
+            @media(max-width: 900px) {
+                padding: 5px;
+                font-size: 14px;
+            }
+            a {
+                font-weight: 600;
+                color: #333;
+                text-decoration: none;
+                &:hover {
+                    text-decoration: underline;
+                }
+            }
+        }
+    }
 `;
 
 export default function Contact() {

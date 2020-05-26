@@ -71,7 +71,10 @@ export default function ListPage(props) {
         <>
             <StyledPageTitle>{title}</StyledPageTitle>
             <StyledMasonry
-                breakpointCols={2}
+                breakpointCols={{
+                    default: 2,
+                    700: 1,
+                }}
                 className="masonry-grid"
                 columnClassName="masonry-grid-column"
             >
