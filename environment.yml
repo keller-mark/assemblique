@@ -8,6 +8,6 @@ dependencies:
   - boto3
   - pip
   - pip:
-    - instaloader==4.2.10
+    - instaloader
     - python-frontmatter
     - markdownify
