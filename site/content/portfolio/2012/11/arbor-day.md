@@ -1,5 +1,5 @@
 ---
-aws_media_src_url: //assemblique.s3.us-east-2.amazonaws.com/2012/11/arborday.jpg
+aws_media_src_url: //pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/arborday.jpg
 date: '2012-11-13T11:18:47'
 slug: arbor-day
 title: Arbor Day
@@ -9,7 +9,7 @@ title: Arbor Day
 
  8″W x 22″H x 5″D
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/11/arborday.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/11/arborday.jpg) (available)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/arborday.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/arborday.jpg) (available)
 
  List of Materials:
 
@@ -25,12 +25,12 @@ title: Arbor Day
  * Antique Adding Machine Keys
  * China Hummingbird
  * Misc Vintage Brass
-  [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/11/arborday-face.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/11/arborday-face.jpg)
+  [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/arborday-face.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/arborday-face.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/11/arborday-right.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/11/arborday-right.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/arborday-right.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/arborday-right.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/11/arborday-left.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/11/arborday-left.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/arborday-left.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/arborday-left.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/11/arborday-top.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/11/arborday-top.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/arborday-top.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/arborday-top.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/11/arborday-full.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/11/arborday-full.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/arborday-full.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/arborday-full.jpg)

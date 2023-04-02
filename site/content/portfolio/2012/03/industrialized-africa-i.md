@@ -1,5 +1,5 @@
 ---
-aws_media_src_url: //assemblique.s3.us-east-2.amazonaws.com/2012/03/industrializedafrica1-blk.jpg
+aws_media_src_url: //pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/industrializedafrica1-blk.jpg
 date: '2012-03-08T10:27:10'
 slug: industrialized-africa-i
 title: Industrialized Africa I
@@ -17,4 +17,4 @@ title: Industrialized Africa I
  * Steel Machine Parts
  * Brass Washer
  * Copper Wire
-  [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/03/industrializedafrica1-blk.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/03/industrializedafrica1-blk.jpg)[![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/03/industrializedafrica-closeup.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/03/industrializedafrica-closeup.jpg)[![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/03/industrializedafrica1-ang.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/03/industrializedafrica1-ang.jpg)[![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/03/industrializedafrica1.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/03/industrializedafrica1.jpg)
+  [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/industrializedafrica1-blk.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/industrializedafrica1-blk.jpg)[![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/industrializedafrica-closeup.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/industrializedafrica-closeup.jpg)[![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/industrializedafrica1-ang.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/industrializedafrica1-ang.jpg)[![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/industrializedafrica1.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/industrializedafrica1.jpg)

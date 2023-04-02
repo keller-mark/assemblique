@@ -1,5 +1,5 @@
 ---
-aws_media_src_url: //assemblique.s3.us-east-2.amazonaws.com/2013/03/hedman.jpg
+aws_media_src_url: //pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/03/hedman.jpg
 date: '2013-03-04T09:54:14'
 slug: hedman
 title: “Hedman”
@@ -9,7 +9,7 @@ title: “Hedman”
 
  16W x 18″H x 4″D
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/03/hedman.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/03/hedman.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/03/hedman.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/03/hedman.jpg)
 
  List of Materials:
 
@@ -21,10 +21,10 @@ title: “Hedman”
  * Vintage Scale Parts
  * Wood Mask Base
  * Misc Found Objects
-  [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/03/hedman-angle2.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/03/hedman-angle2.jpg)
+  [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/03/hedman-angle2.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/03/hedman-angle2.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/03/hedman-angle.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/03/hedman-angle.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/03/hedman-angle.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/03/hedman-angle.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/03/hedman-top.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/03/hedman-top.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/03/hedman-top.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/03/hedman-top.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/03/hedman-headdress.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/03/hedman-headdress.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/03/hedman-headdress.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/03/hedman-headdress.jpg)

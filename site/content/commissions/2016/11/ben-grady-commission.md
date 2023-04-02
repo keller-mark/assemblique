@@ -1,5 +1,5 @@
 ---
-aws_media_src_url: //assemblique.s3.us-east-2.amazonaws.com/2016/11/img_1914.jpg
+aws_media_src_url: //pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2016/11/img_1914.jpg
 date: '2016-11-30T13:51:56'
 slug: ben-grady-commission
 title: “Ben Grady” commission
@@ -23,6 +23,6 @@ title: “Ben Grady” commission
  * Vintage indicator light bulbs
   There is an LED light inside one of his eyes, the last photo shows Ben with the LED turned on.
 
- ![img_1914](//assemblique.s3.us-east-2.amazonaws.com/2016/11/img_1914.jpg?w=602)![img_1915](//assemblique.s3.us-east-2.amazonaws.com/2016/11/img_1915.jpg?w=602)![img_1926](//assemblique.s3.us-east-2.amazonaws.com/2016/11/img_1926.jpg?w=602)
+ ![img_1914](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2016/11/img_1914.jpg?w=602)![img_1915](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2016/11/img_1915.jpg?w=602)![img_1926](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2016/11/img_1926.jpg?w=602)
 
- ![img_1938](//assemblique.s3.us-east-2.amazonaws.com/2016/11/img_1938.jpg?w=602)
+ ![img_1938](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2016/11/img_1938.jpg?w=602)

@@ -1,11 +1,11 @@
 ---
-aws_media_src_url: //assemblique.s3.us-east-2.amazonaws.com/2012/05/mr-b-closeup.jpg
+aws_media_src_url: //pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/05/mr-b-closeup.jpg
 date: '2012-05-03T11:46:25'
 slug: mr-b
 title: Mr. B
 ---
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/05/mr-b-closeup.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/05/mr-b-closeup.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/05/mr-b-closeup.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/05/mr-b-closeup.jpg)
 
  **“Mr. B”**
 
@@ -41,4 +41,4 @@ title: Mr. B
 
  • Other Misc. Metal Found Objects
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/05/mr-b-side2.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/05/mr-b-side2.jpg)[![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/05/mr-b-angle.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/05/mr-b-angle.jpg)[![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/05/mr-b.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/05/mr-b.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/05/mr-b-side2.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/05/mr-b-side2.jpg)[![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/05/mr-b-angle.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/05/mr-b-angle.jpg)[![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/05/mr-b.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/05/mr-b.jpg)

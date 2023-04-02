@@ -1,11 +1,11 @@
 ---
-aws_media_src_url: //assemblique.s3.us-east-2.amazonaws.com/2016/10/weirdfishes1.jpg
+aws_media_src_url: //pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2016/10/weirdfishes1.jpg
 date: '2016-10-17T15:05:02'
 slug: weird-fishes-151-2
 title: 'Weird Fishes  #151'
 ---
 
- ![weirdfishes1](//assemblique.s3.us-east-2.amazonaws.com/2016/10/weirdfishes1.jpg?w=602)
+ ![weirdfishes1](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2016/10/weirdfishes1.jpg?w=602)
 
  “Weird Fishes #151”
 
