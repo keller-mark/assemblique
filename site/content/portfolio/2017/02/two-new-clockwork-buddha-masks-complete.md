@@ -1,5 +1,5 @@
 ---
-aws_media_src_url: //assemblique.s3.us-east-2.amazonaws.com/2017/02/blackforestbuddha2.jpg
+aws_media_src_url: //pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2017/02/blackforestbuddha2.jpg
 date: '2017-02-09T10:10:11'
 slug: two-new-clockwork-buddha-masks-complete
 title: Two new clockwork Buddha masks complete!
@@ -11,4 +11,4 @@ title: Two new clockwork Buddha masks complete!
 
  Balance Wheel Buddha (bottom) is made from antique clock parts, vintage camera lens, vintage glass indicator light lens, antique Italian brass chandelier parts, small antique pocket watch gears, and an antique brass claw foot.
 
- ![blackforestbuddha2](//assemblique.s3.us-east-2.amazonaws.com/2017/02/blackforestbuddha2.jpg?w=602)![balancewheelbuddha](//assemblique.s3.us-east-2.amazonaws.com/2017/02/balancewheelbuddha.jpg?w=602)
+ ![blackforestbuddha2](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2017/02/blackforestbuddha2.jpg?w=602)![balancewheelbuddha](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2017/02/balancewheelbuddha.jpg?w=602)

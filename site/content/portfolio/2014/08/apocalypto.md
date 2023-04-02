@@ -1,11 +1,11 @@
 ---
-aws_media_src_url: //assemblique.s3.us-east-2.amazonaws.com/2014/08/apocalypto.jpg
+aws_media_src_url: //pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/08/apocalypto.jpg
 date: '2014-08-27T16:33:56'
 slug: apocalypto
 title: “Apocalypto”
 ---
 
- ![Apocalypto](//assemblique.s3.us-east-2.amazonaws.com/2014/08/apocalypto.jpg?w=602&h=677)
+ ![Apocalypto](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/08/apocalypto.jpg?w=602&h=677)
 
  “APOCALYPTO”
 
@@ -20,6 +20,6 @@ title: “Apocalypto”
  * Vintage Snap Gauge
  * Misc Brass Part
   [  
-![Apocalypto-close](//assemblique.s3.us-east-2.amazonaws.com/2014/08/apocalypto-close.jpg?w=602&h=903)](//assemblique.s3.us-east-2.amazonaws.com/2014/08/apocalypto-close.jpg) [![Apocalypto-closeANGLE](//assemblique.s3.us-east-2.amazonaws.com/2014/08/apocalypto-closeangle.jpg?w=602&h=903)](//assemblique.s3.us-east-2.amazonaws.com/2014/08/apocalypto-closeangle.jpg)
+![Apocalypto-close](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/08/apocalypto-close.jpg?w=602&h=903)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/08/apocalypto-close.jpg) [![Apocalypto-closeANGLE](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/08/apocalypto-closeangle.jpg?w=602&h=903)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/08/apocalypto-closeangle.jpg)
 
- ![Apocalypto-close-ANGLE2](//assemblique.s3.us-east-2.amazonaws.com/2014/08/apocalypto-close-angle2.jpg?w=602&h=903)
+ ![Apocalypto-close-ANGLE2](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/08/apocalypto-close-angle2.jpg?w=602&h=903)

@@ -1,11 +1,11 @@
 ---
-aws_media_src_url: //assemblique.s3.us-east-2.amazonaws.com/2014/03/americangothicrevisited-upangle.jpg
+aws_media_src_url: //pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/03/americangothicrevisited-upangle.jpg
 date: '2014-03-19T14:37:25'
 slug: american-gothic-revisited
 title: “American Gothic Revisited”
 ---
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2014/03/americangothicrevisited-upangle.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2014/03/americangothicrevisited-upangle.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/03/americangothicrevisited-upangle.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/03/americangothicrevisited-upangle.jpg)
 
  “American Gothic Revisited”
 
@@ -28,4 +28,4 @@ title: “American Gothic Revisited”
  * Antique Brass Miner’s Oil Lamp
  * Antique Brass Gas Valve
  * Wired with LEDs, Switch, and two 9V Batteries
-  [![Image](//assemblique.s3.us-east-2.amazonaws.com/2014/03/americangothicrevisited-right.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2014/03/americangothicrevisited-right.jpg)[![Image](//assemblique.s3.us-east-2.amazonaws.com/2014/03/americangothicrevisited-her.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2014/03/americangothicrevisited-her.jpg)[![Image](//assemblique.s3.us-east-2.amazonaws.com/2014/03/americangothicrevisited-him.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2014/03/americangothicrevisited-him.jpg)[![Image](//assemblique.s3.us-east-2.amazonaws.com/2014/03/americangothicrevisited-angle.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2014/03/americangothicrevisited-angle.jpg)[![Image](//assemblique.s3.us-east-2.amazonaws.com/2014/03/americangothicrevisited.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2014/03/americangothicrevisited.jpg)[![Image](//assemblique.s3.us-east-2.amazonaws.com/2014/03/americangothicrevisited-close.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2014/03/americangothicrevisited-close.jpg)[![Image](//assemblique.s3.us-east-2.amazonaws.com/2014/03/americangothicrevisited2.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2014/03/americangothicrevisited2.jpg)
+  [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/03/americangothicrevisited-right.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/03/americangothicrevisited-right.jpg)[![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/03/americangothicrevisited-her.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/03/americangothicrevisited-her.jpg)[![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/03/americangothicrevisited-him.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/03/americangothicrevisited-him.jpg)[![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/03/americangothicrevisited-angle.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/03/americangothicrevisited-angle.jpg)[![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/03/americangothicrevisited.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/03/americangothicrevisited.jpg)[![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/03/americangothicrevisited-close.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/03/americangothicrevisited-close.jpg)[![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/03/americangothicrevisited2.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/03/americangothicrevisited2.jpg)

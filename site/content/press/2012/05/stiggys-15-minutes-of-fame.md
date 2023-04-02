@@ -1,11 +1,11 @@
 ---
-aws_media_src_url: //assemblique.s3.us-east-2.amazonaws.com/2012/05/astigmatism-closeup-blk-lw.jpg
+aws_media_src_url: //pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/05/astigmatism-closeup-blk-lw.jpg
 date: '2012-05-24T13:27:53'
 slug: stiggys-15-minutes-of-fame
 title: STIGGY’s 15 Minutes of Fame
 ---
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/05/astigmatism-closeup-blk-lw.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/05/astigmatism-closeup-blk-lw.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/05/astigmatism-closeup-blk-lw.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/05/astigmatism-closeup-blk-lw.jpg)
 
  ***Stiggy was featured in:***
 -----------------------------
@@ -19,4 +19,4 @@ title: STIGGY’s 15 Minutes of Fame
  * **And Coming Soon….. Thalo Magazine, ***June 2012 (www.thalo.com)*
   * *
 
- [![](//assemblique.s3.us-east-2.amazonaws.com/2012/03/ggmw-cvr1.jpg?w=186&h=300 "GGMW-CVR")](//assemblique.s3.us-east-2.amazonaws.com/2012/03/ggmw-cvr1.jpg)
+ [![](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/ggmw-cvr1.jpg?w=186&h=300 "GGMW-CVR")](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/ggmw-cvr1.jpg)

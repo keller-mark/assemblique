@@ -1,5 +1,5 @@
 ---
-aws_media_src_url: //assemblique.s3.us-east-2.amazonaws.com/2012/03/torre-dellorologio-blck1.jpg
+aws_media_src_url: //pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/torre-dellorologio-blck1.jpg
 date: '2012-03-08T14:04:20'
 slug: torre-deorologia
 title: Torre De’Orologia
@@ -24,6 +24,6 @@ title: Torre De’Orologia
  * Copper Flashing
  * Marble and Granite Tiles
  * Vintage Music Box
-  [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/03/torre-dellorologio-blck1.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/03/torre-dellorologio-blck1.jpg)
+  [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/torre-dellorologio-blck1.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/torre-dellorologio-blck1.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/03/torre-dellorologio.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/03/torre-dellorologio.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/torre-dellorologio.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/torre-dellorologio.jpg)

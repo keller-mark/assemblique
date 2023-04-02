@@ -1,5 +1,5 @@
 ---
-aws_media_src_url: //assemblique.s3.us-east-2.amazonaws.com/2013/01/inthered-detail.jpg
+aws_media_src_url: //pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/01/inthered-detail.jpg
 date: '2013-01-11T15:46:12'
 slug: in-the-red
 title: “IN THE RED”
@@ -11,7 +11,7 @@ title: “IN THE RED”
 
   
 
- [[![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/01/inthered-detail.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/01/inthered-detail.jpg)](//assemblique.s3.us-east-2.amazonaws.com/2013/01/inthered-withdome.jpg)
+ [[![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/01/inthered-detail.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/01/inthered-detail.jpg)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/01/inthered-withdome.jpg)
 
  LIST OF MATERIALS:
 
@@ -22,8 +22,8 @@ title: “IN THE RED”
  * antique telegraph parts
  * antique cast iron toy drivers
  * misc brass parts
-  [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/01/inthered-withdome.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/01/inthered-withdome.jpg)
+  [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/01/inthered-withdome.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/01/inthered-withdome.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/01/inthered.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/01/inthered.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/01/inthered.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/01/inthered.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/01/inthered-top.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/01/inthered-top.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/01/inthered-top.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/01/inthered-top.jpg)

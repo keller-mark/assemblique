@@ -1,5 +1,5 @@
 ---
-aws_media_src_url: //assemblique.s3.us-east-2.amazonaws.com/2012/11/odysseus-head.jpg
+aws_media_src_url: //pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/odysseus-head.jpg
 date: '2012-11-08T08:49:32'
 slug: the-mind-of-odysseus-edit
 title: The Mind of Odysseus (edit)
@@ -9,7 +9,7 @@ title: The Mind of Odysseus (edit)
 
  12″L x 18″H x 5″D
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/11/odysseus-head.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/11/odysseus-head.jpg) (SOLD)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/odysseus-head.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/odysseus-head.jpg) (SOLD)
 
  LIST OF MATERIALS:
 
@@ -27,16 +27,16 @@ title: The Mind of Odysseus (edit)
  * Antique Telegraph Sounder Part
  * Antique Sewing Machine Parts
  * Antique Pull Toy Base and Wheels
-  [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/11/odysseus-angle.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/11/odysseus-angle.jpg)
+  [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/odysseus-angle.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/odysseus-angle.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/11/odysseus-angle2.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/11/odysseus-angle2.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/odysseus-angle2.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/odysseus-angle2.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/11/odysseus-base.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/11/odysseus-base.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/odysseus-base.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/odysseus-base.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/11/odysseus-head-close.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/11/odysseus-head-close.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/odysseus-head-close.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/odysseus-head-close.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/11/odysseus-lower.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/11/odysseus-lower.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/odysseus-lower.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/odysseus-lower.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/11/odysseus.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/11/odysseus.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/odysseus.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/odysseus.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/11/odysseus-back.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/11/odysseus-back.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/odysseus-back.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/11/odysseus-back.jpg)

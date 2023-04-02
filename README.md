@@ -8,9 +8,10 @@ source activate assemblique-env
 yarn
 ```
 
-Set AWS environment variables:
+Set S3 environment variables:
 
 ```sh
+export ASSEMBLIQUE_ACCOUNT_ID="my_cloudflare_r2_account_id"
 export ASSEMBLIQUE_S3_ACCESS_KEY_ID="my_access_key_id";
 export ASSEMBLIQUE_S3_SECRET_ACCESS_KEY="my_secret_access_key";
 ```

@@ -1,11 +1,11 @@
 ---
-aws_media_src_url: //assemblique.s3.us-east-2.amazonaws.com/2012/05/opposablethumbs.jpg
+aws_media_src_url: //pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/05/opposablethumbs.jpg
 date: '2012-05-03T11:32:50'
 slug: opposable-thumbs
 title: Opposable Thumbs
 ---
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/05/opposablethumbs.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/05/opposablethumbs.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/05/opposablethumbs.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/05/opposablethumbs.jpg)
 
  **“OPPOSABLE THUMBS”**
 
@@ -33,4 +33,4 @@ title: Opposable Thumbs
 
  • Other Misc Found Objects
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/05/opposablethumbs-side.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/05/opposablethumbs-side.jpg)[![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/05/opposablethumbs-detail2.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/05/opposablethumbs-detail2.jpg)[![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/05/opposablethumbs-detail.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/05/opposablethumbs-detail.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/05/opposablethumbs-side.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/05/opposablethumbs-side.jpg)[![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/05/opposablethumbs-detail2.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/05/opposablethumbs-detail2.jpg)[![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/05/opposablethumbs-detail.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/05/opposablethumbs-detail.jpg)

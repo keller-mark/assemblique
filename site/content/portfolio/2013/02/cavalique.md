@@ -1,5 +1,5 @@
 ---
-aws_media_src_url: //assemblique.s3.us-east-2.amazonaws.com/2013/02/glueboy-close.jpg
+aws_media_src_url: //pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/02/glueboy-close.jpg
 date: '2013-02-04T10:16:39'
 slug: cavalique
 title: “Cavalique”
@@ -9,7 +9,7 @@ title: “Cavalique”
 
  24″ Wingspan, 24″ Tall x 15″ Long
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/02/glueboy-close.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/02/glueboy-close.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/02/glueboy-close.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/02/glueboy-close.jpg)
 
  List of Materials:
 
@@ -26,12 +26,12 @@ title: “Cavalique”
  * Part from a Vintage Anniversary Clock
  * Misc Antique Brass Decorative Parts
  * Misc Other Found Objects
-  [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/02/sampson-rear.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/02/sampson-rear.jpg)
+  [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/02/sampson-rear.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/02/sampson-rear.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/02/sampson-head.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/02/sampson-head.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/02/sampson-head.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/02/sampson-head.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/02/sampson-leftside.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/02/sampson-leftside.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/02/sampson-leftside.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/02/sampson-leftside.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/02/sampson-side.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/02/sampson-side.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/02/sampson-side.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/02/sampson-side.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/02/sampson.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/02/sampson.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/02/sampson.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/02/sampson.jpg)

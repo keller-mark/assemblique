@@ -1,5 +1,5 @@
 ---
-aws_media_src_url: //assemblique.s3.us-east-2.amazonaws.com/2012/03/skeezix-detail3.jpg
+aws_media_src_url: //pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/skeezix-detail3.jpg
 date: '2012-03-08T13:14:06'
 slug: skeezix-in-neverwhere
 title: Skeezix in Neverwhere
@@ -13,15 +13,15 @@ title: Skeezix in Neverwhere
 
  So I found this old mirror, the type where the silver backing is all spotted. The frame around it was also mirrored, and spotted. The orange and light green glass was from two “crackle glass” type vases I picked up at the goodwill store. The dark grey stone is slate I had left over from the mosaic fireplace I did recently. The wings I added to skeezix were from a 99 cent angel I found t the goodwill store. After everything was glued to the mirror, I poured clear epoxy resin over it, about 1/4″ thick, that encased all the pieces, except for skeezix, who is breaking free.
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/03/skeezix-detail3.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/03/skeezix-detail3.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/skeezix-detail3.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/skeezix-detail3.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/03/skeezix-detail1.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/03/skeezix-detail1.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/skeezix-detail1.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/skeezix-detail1.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/03/skeezix-detail5.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/03/skeezix-detail5.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/skeezix-detail5.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/skeezix-detail5.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/03/skeezix-detail6.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/03/skeezix-detail6.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/skeezix-detail6.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/skeezix-detail6.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2012/03/skeezixinneverwhere.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2012/03/skeezixinneverwhere.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/skeezixinneverwhere.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2012/03/skeezixinneverwhere.jpg)
 
  ###### ABOUT SKEEZIX: (from Wikipedia)
 

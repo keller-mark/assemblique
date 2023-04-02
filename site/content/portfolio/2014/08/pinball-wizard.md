@@ -1,11 +1,11 @@
 ---
-aws_media_src_url: //assemblique.s3.us-east-2.amazonaws.com/2014/08/pinballwizard-angle2.jpg
+aws_media_src_url: //pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/08/pinballwizard-angle2.jpg
 date: '2014-08-25T11:13:51'
 slug: pinball-wizard
 title: Pinball Wizard
 ---
 
- [![PinballWizard-angle2](//assemblique.s3.us-east-2.amazonaws.com/2014/08/pinballwizard-angle2.jpg?w=602&h=962)](//assemblique.s3.us-east-2.amazonaws.com/2014/08/pinballwizard-angle2.jpg)
+ [![PinballWizard-angle2](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/08/pinballwizard-angle2.jpg?w=602&h=962)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/08/pinballwizard-angle2.jpg)
 
  “Pinball Wizard”
 
@@ -20,4 +20,4 @@ title: Pinball Wizard
  * Vintage Typewriter Parts
  * Vintage Porcelain Bird Wings
  * Aluminum and Copper Gears
-  [![PinballWizard-angle](//assemblique.s3.us-east-2.amazonaws.com/2014/08/pinballwizard-angle.jpg?w=584&h=1024)](//assemblique.s3.us-east-2.amazonaws.com/2014/08/pinballwizard-angle.jpg) [![PinballWizard](//assemblique.s3.us-east-2.amazonaws.com/2014/08/pinballwizard.jpg?w=602&h=765)](//assemblique.s3.us-east-2.amazonaws.com/2014/08/pinballwizard.jpg)
+  [![PinballWizard-angle](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/08/pinballwizard-angle.jpg?w=584&h=1024)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/08/pinballwizard-angle.jpg) [![PinballWizard](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/08/pinballwizard.jpg?w=602&h=765)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/08/pinballwizard.jpg)

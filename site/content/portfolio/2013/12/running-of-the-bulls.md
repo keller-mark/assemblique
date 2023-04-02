@@ -1,5 +1,5 @@
 ---
-aws_media_src_url: //assemblique.s3.us-east-2.amazonaws.com/2013/12/runningbull.jpg
+aws_media_src_url: //pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/12/runningbull.jpg
 date: '2013-12-18T17:09:34'
 slug: running-of-the-bulls
 title: “Running of the Bulls”
@@ -14,18 +14,18 @@ title: “Running of the Bulls”
  * Vintage Adding Machine Parts
  * Antique Camera Lenses
  * Antique Cash Register Parts
-  [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/12/runningbull.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/12/runningbull.jpg)
+  [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/12/runningbull.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/12/runningbull.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/12/runningbull-back.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/12/runningbull-back.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/12/runningbull-back.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/12/runningbull-back.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/12/runningbull-side.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/12/runningbull-side.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/12/runningbull-side.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/12/runningbull-side.jpg)
 
- [[[![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/12/runningbull-backside.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/12/runningbull-backside.jpg)![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/12/runningbull-topangle2.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/12/runningbull-topangle2.jpg)](//assemblique.s3.us-east-2.amazonaws.com/2013/12/runningbull-back.jpg)
+ [[[![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/12/runningbull-backside.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/12/runningbull-backside.jpg)![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/12/runningbull-topangle2.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/12/runningbull-topangle2.jpg)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/12/runningbull-back.jpg)
 
- [[![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/12/runningbull-topangle.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/12/runningbull-topangle.jpg)](//assemblique.s3.us-east-2.amazonaws.com/2013/12/runningbull-back.jpg)
+ [[![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/12/runningbull-topangle.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/12/runningbull-topangle.jpg)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/12/runningbull-back.jpg)
 
- [[![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/12/runningbull-side2.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/12/runningbull-side2.jpg)](//assemblique.s3.us-east-2.amazonaws.com/2013/12/runningbull-back.jpg)
+ [[![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/12/runningbull-side2.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/12/runningbull-side2.jpg)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/12/runningbull-back.jpg)
 
- [[![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/12/runningbull-frontangle2.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/12/runningbull-frontangle2.jpg)](//assemblique.s3.us-east-2.amazonaws.com/2013/12/runningbull-back.jpg)
+ [[![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/12/runningbull-frontangle2.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/12/runningbull-frontangle2.jpg)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/12/runningbull-back.jpg)
 
- [[![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/12/runningbull-frontangle.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/12/runningbull-frontangle.jpg)](//assemblique.s3.us-east-2.amazonaws.com/2013/12/runningbull-back.jpg)
+ [[![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/12/runningbull-frontangle.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/12/runningbull-frontangle.jpg)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/12/runningbull-back.jpg)

@@ -1,5 +1,5 @@
 ---
-aws_media_src_url: //assemblique.s3.us-east-2.amazonaws.com/2016/08/screen-shot-2016-08-30-at-9-43-00-am.png
+aws_media_src_url: //pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2016/08/screen-shot-2016-08-30-at-9-43-00-am.png
 date: '2016-08-30T09:47:44'
 slug: visit-assemblique-at-the-westhampton-beach-festival-of-the-arts-this-labor-day-weekend-sept-3rd-4th
 title: Visit Assemblique at the Westhampton Beach Festival of the Arts this Labor

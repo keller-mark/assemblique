@@ -1,11 +1,11 @@
 ---
-aws_media_src_url: //assemblique.s3.us-east-2.amazonaws.com/2014/08/momentofinertia-angle.jpg
+aws_media_src_url: //pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/08/momentofinertia-angle.jpg
 date: '2014-08-25T11:44:01'
 slug: moment-of-inertia
 title: Moment of Inertia
 ---
 
- [![MomentofInertia-angle](//assemblique.s3.us-east-2.amazonaws.com/2014/08/momentofinertia-angle.jpg?w=602&h=1007)](//assemblique.s3.us-east-2.amazonaws.com/2014/08/momentofinertia-angle.jpg)
+ [![MomentofInertia-angle](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/08/momentofinertia-angle.jpg?w=602&h=1007)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/08/momentofinertia-angle.jpg)
 
  “Moment of Inertia”
 
@@ -19,4 +19,4 @@ title: Moment of Inertia
  * Vintage Brass Angels
  * Vintage Adding Machine Part
  * Resin Angel
-  [![MomentofInertia-close](//assemblique.s3.us-east-2.amazonaws.com/2014/08/momentofinertia-close.jpg?w=602&h=903)](//assemblique.s3.us-east-2.amazonaws.com/2014/08/momentofinertia-close.jpg) [![MomentofInertia-side](//assemblique.s3.us-east-2.amazonaws.com/2014/08/momentofinertia-side.jpg?w=602&h=903)](//assemblique.s3.us-east-2.amazonaws.com/2014/08/momentofinertia-side.jpg) [![MomentofInertia-top](//assemblique.s3.us-east-2.amazonaws.com/2014/08/momentofinertia-top.jpg?w=602&h=903)](//assemblique.s3.us-east-2.amazonaws.com/2014/08/momentofinertia-top.jpg) [![MomentofInertia](//assemblique.s3.us-east-2.amazonaws.com/2014/08/momentofinertia.jpg?w=566&h=1024)](//assemblique.s3.us-east-2.amazonaws.com/2014/08/momentofinertia.jpg)
+  [![MomentofInertia-close](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/08/momentofinertia-close.jpg?w=602&h=903)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/08/momentofinertia-close.jpg) [![MomentofInertia-side](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/08/momentofinertia-side.jpg?w=602&h=903)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/08/momentofinertia-side.jpg) [![MomentofInertia-top](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/08/momentofinertia-top.jpg?w=602&h=903)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/08/momentofinertia-top.jpg) [![MomentofInertia](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/08/momentofinertia.jpg?w=566&h=1024)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2014/08/momentofinertia.jpg)

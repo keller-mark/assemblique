@@ -7,7 +7,7 @@ title: “Mechanique 45” (rev.1)
 
    ![](https://1.gravatar.com/avatar/1d3a0a6720f4cd11a2fefd715aaef656?s=32&d=identicon&r=G)[Assemblique.com](https://assemblique.com/2013/08/08/mechanique-45-rev-1/)
 
-  [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/08/mechanique45-up1.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/08/mechanique45-up1.jpg)
+  [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/08/mechanique45-up1.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/08/mechanique45-up1.jpg)
 
  “Mechanique 45”
 
@@ -27,26 +27,26 @@ title: “Mechanique 45” (rev.1)
  * Vintage Japanese Gauges
  * Vintage Motorola TV Dial
  * Other Misc Vintage Parts
-  [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/08/mechanique45-up-angle21.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/08/mechanique45-up-angle21.jpg)
+  [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/08/mechanique45-up-angle21.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/08/mechanique45-up-angle21.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/08/mechanique45-up-angle1.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/08/mechanique45-up-angle1.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/08/mechanique45-up-angle1.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/08/mechanique45-up-angle1.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/08/mechanique45-head-back1.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/08/mechanique45-head-back1.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/08/mechanique45-head-back1.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/08/mechanique45-head-back1.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/08/mechanique452.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/08/mechanique452.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/08/mechanique452.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/08/mechanique452.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/08/mechanique45-back1.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/08/mechanique45-back1.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/08/mechanique45-back1.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/08/mechanique45-back1.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/08/mechanique45-angle22.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/08/mechanique45-angle22.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/08/mechanique45-angle22.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/08/mechanique45-angle22.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/08/mechanique45-angle3.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/08/mechanique45-angle3.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/08/mechanique45-angle3.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/08/mechanique45-angle3.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/08/mechanique45-head2.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/08/mechanique45-head2.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/08/mechanique45-head2.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/08/mechanique45-head2.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/08/mechanique45-head-angle2.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/08/mechanique45-head-angle2.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/08/mechanique45-head-angle2.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/08/mechanique45-head-angle2.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/08/mechanique45-base.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/08/mechanique45-base.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/08/mechanique45-base.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/08/mechanique45-base.jpg)
 
- [![Image](//assemblique.s3.us-east-2.amazonaws.com/2013/08/mechanique45-base-close1.jpg?w=487)](//assemblique.s3.us-east-2.amazonaws.com/2013/08/mechanique45-base-close1.jpg)
+ [![Image](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/08/mechanique45-base-close1.jpg?w=487)](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2013/08/mechanique45-base-close1.jpg)
 
   [View original post](https://assemblique.com/2013/08/08/mechanique-45-rev-1/)

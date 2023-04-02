@@ -1,5 +1,5 @@
 ---
-aws_media_src_url: //assemblique.s3.us-east-2.amazonaws.com/2016/10/autumnelder.jpg
+aws_media_src_url: //pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2016/10/autumnelder.jpg
 date: '2016-10-18T16:49:56'
 slug: autumn-elder
 title: Autumn Elder
@@ -9,4 +9,4 @@ title: Autumn Elder
 
   
 
- ![autumnelder](//assemblique.s3.us-east-2.amazonaws.com/2016/10/autumnelder.jpg?w=602)![autumnelder-side](//assemblique.s3.us-east-2.amazonaws.com/2016/10/autumnelder-side.jpg?w=602)![autumnelder-close](//assemblique.s3.us-east-2.amazonaws.com/2016/10/autumnelder-close.jpg?w=602)
+ ![autumnelder](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2016/10/autumnelder.jpg?w=602)![autumnelder-side](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2016/10/autumnelder-side.jpg?w=602)![autumnelder-close](//pub-5541d2355e6941b4a5fe50450aba723b.r2.dev/2016/10/autumnelder-close.jpg?w=602)
