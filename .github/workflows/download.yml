@@ -1,0 +1,23 @@
+name: Download
+
+on:
+  push:
+    branches:
+      - main
+      - 
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  instaloader:
+    name: Python instaloader
+    runs-on: macos-14
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v3
+        with:
+          version: "0.4.16"
+      - run: |
+          uv run --with "instaloader" instaloader assemblique --fast-update --no-videos
